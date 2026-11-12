@@ -1,1 +1,1 @@
-# leetcode-tests
+# leetcode tests
